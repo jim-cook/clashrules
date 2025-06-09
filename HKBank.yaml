@@ -20,3 +20,6 @@ payload:
   - DOMAIN-SUFFIX,tags.tiqcdn.com
   - DOMAIN-SUFFIX,ocsp.digicert.com
   - DOMAIN-SUFFIX,moneyback.com.hk
+  - DOMAIN-SUFFIX,fundsupermart.com.hk
+  - DOMAIN-SUFFIX,fsmone.com.hk
+  - DOMAIN-SUFFIX,fsmone.com
