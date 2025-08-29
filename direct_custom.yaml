@@ -3,3 +3,6 @@ payload:
   - DOMAIN-SUFFIX,wise.com
   - DOMAIN-SUFFIX,myfin.bg
   - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-KEYWORD,interactivebrokers
+  - DOMAIN-KEYWORD,ibkr
+  - DOMAIN-SUFFIX,ibllc.com
