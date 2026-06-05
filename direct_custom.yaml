@@ -19,3 +19,4 @@ payload:
   - DOMAIN-SUFFIX,www.bing.com
   - DOMAIN-SUFFIX,cn.bing.com
   - DOMAIN-SUFFIX,webofscience.com
+  - DOMAIN-SUFFIX,zerotier.com
