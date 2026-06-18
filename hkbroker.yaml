@@ -92,6 +92,7 @@ payload:
   #longbridge
   - DOMAIN-SUFFIX,api.lbkrs.com
   - DOMAIN-SUFFIX,api-gl.lbkrs.com
+  - DOMAIN-SUFFIX,lbkrs.com
   - DOMAIN-SUFFIX,longbridge.cloud
   - DOMAIN-SUFFIX,longbridge.com
   - DOMAIN-SUFFIX,longbridge.global
