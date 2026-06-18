@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN-SUFFIX,thinkorswim.com,TRADING
-  - DOMAIN-SUFFIX,tdameritrade.com,TRADING
-  - DOMAIN-SUFFIX,schwab.com,TRADING
-  - HOST,tosmediaserver.schwab.com,TRADING
+  - DOMAIN-SUFFIX,thinkorswim.com
+  - DOMAIN-SUFFIX,tdameritrade.com
+  - DOMAIN-SUFFIX,schwab.com
+  - HOST,tosmediaserver.schwab.com
