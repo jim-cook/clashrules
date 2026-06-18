@@ -2,4 +2,13 @@ payload:
   - DOMAIN-SUFFIX,thinkorswim.com
   - DOMAIN-SUFFIX,tdameritrade.com
   - DOMAIN-SUFFIX,schwab.com
+  - DOMAIN-SUFFIX,aboutschwab.com
+  - DOMAIN-SUFFIX,schwabjobs.com
+  - DOMAIN-SUFFIX,schwab.co.uk
+  - DOMAIN-SUFFIX,schwab.com.hk
+  - DOMAIN-SUFFIX,schwabmoneywise.com
+  - DOMAIN-SUFFIX,schwabcharitable.org
+  - DOMAIN-SUFFIX,dafgiving360.org
+  - DOMAIN-SUFFIX,schwabfoundation.org
+  - DOMAIN-KEYWORD,schwab
   - HOST,tosmediaserver.schwab.com
