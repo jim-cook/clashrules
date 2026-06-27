@@ -89,9 +89,11 @@ payload:
   - IP-CIDR,43.132.106.8/32,no-resolve
   - IP-CIDR,43.132.138.67/32,no-resolve
   - IP-CIDR,1.15.158.235/32,no-resolve
+  - IP-CIDR,43.162.222.168/32,no-resolve
   #longbridge
   #- DOMAIN-SUFFIX,api.lbkrs.com
   #- DOMAIN-SUFFIX,api-gl.lbkrs.com
+  - DOMAIN-SUFFIX,lbctrl.com
   - DOMAIN-SUFFIX,lbkrs.com
   - DOMAIN-SUFFIX,longbridge.cloud
   - DOMAIN-SUFFIX,longbridge.com
@@ -112,3 +114,6 @@ payload:
   - DOMAIN-SUFFIX,xiaohu8.com
   - DOMAIN-SUFFIX,zhijianfengyi.cn
   - DOMAIN-SUFFIX,zhijianfengyi.com
+
+#huasheng
+  - DOMAIN-SUFFIX,hstong.com
