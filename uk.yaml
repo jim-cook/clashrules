@@ -1,8 +1,8 @@
 payload:
 # 沃达丰
-  - DOMAIN-SUFFIX,epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
-  - DOMAIN-SUFFIX,ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
-  - DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org
+  #- DOMAIN-SUFFIX,epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
+  #- DOMAIN-SUFFIX,ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
+  #- DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org
   - DOMAIN-SUFFIX,entsrv-uk.vodafone.com
   - DOMAIN-SUFFIX,vuk-gto.prod.ondemandconnectivity.com
   - IP-CIDR,88.82.0.0/19,no-resolve
@@ -10,6 +10,7 @@ payload:
   - IP-CIDR,46.68.0.0/17,no-resolve
 # Giffgaff
   - IP-CIDR,87.194.0.0/16,no-resolve
-  - DOMAIN-SUFFIX,mnc010.mcc234.pub.3gppnetwork.org
+  #- DOMAIN-SUFFIX,mnc010.mcc234.pub.3gppnetwork.org
   - DOMAIN-SUFFIX,giffgaff.com
-  - DOMAIN-SUFFIX,mnc026.mcc234.pub.3gppnetwork.org
+  #- DOMAIN-SUFFIX,mnc026.mcc234.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,mcc234.pub.3gppnetwork.org
