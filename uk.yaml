@@ -1,6 +1,4 @@
 payload:
-# 地区检测
-  - DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
 # 沃达丰
   - DOMAIN-SUFFIX,epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
   - DOMAIN-SUFFIX,ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
@@ -12,5 +10,6 @@ payload:
   - IP-CIDR,46.68.0.0/17,no-resolve
 # Giffgaff
   - IP-CIDR,87.194.0.0/16,no-resolve
-  - DOMAIN-SUFFIX,epdg.epc.mnc010.mcc234.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,mnc010.mcc234.pub.3gppnetwork.org
   - DOMAIN-SUFFIX,giffgaff.com
+  - DOMAIN-SUFFIX,mnc026.mcc234.pub.3gppnetwork.org
