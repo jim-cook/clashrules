@@ -1,3 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,vodafone.de
   - DOMAIN-SUFFIX,mcc262.pub.3gppnetwork.org
+  - IP-CIDR,139.7.117.168/32,no-resolve
+  - IP-CIDR,139.7.117.169/32,no-resolve
+  - IP-CIDR,139.7.117.170/32,no-resolve
